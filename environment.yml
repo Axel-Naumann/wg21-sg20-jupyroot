@@ -1,0 +1,5 @@
+name: jupyroot-environment
+channels:
+  - conda-forge
+dependencies:
+  - root
